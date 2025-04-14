@@ -47,7 +47,7 @@ export default function Home() {
   <h1 className="text-5xl font-extrabold text-center mb-8 bg-gradient-to-r from-[#8F87F1] to-[#C68EFD] bg-clip-text text-transparent p-5">
     Weatherly
   </h1>
-  <div className="flex flex-col space-y-6 bg-[#FED2E2]/30 backdrop-blur-sm rounded-2xl p-8 shadow-lg border-4 border-black">
+  <div className="flex flex-col space-y-6 bg-[#FED2E2]/30 backdrop-blur-sm square-2xl p-8 shadow-lg border-4 border-black">
     <input
       value={city}
       onChange={(e)=>setCity(e.target.value)}
