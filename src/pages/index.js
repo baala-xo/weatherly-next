@@ -94,7 +94,19 @@ export default function Home() {
   </div>
 
   <footer className="text-center text-black text-sm">
-    Powered by WeatherAPI.com
+    <p>powered by WeatherAPI.com</p>
+    <p className="text-center text-sm text-gray-600 p-5">
+  Crafted with <span className="text-red-500">❤️</span> by{' '}
+  <a
+    href="https://v0-portfolio-ten-mauve.vercel.app/"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-[#8F87F1] font-semibold hover:underline"
+  >
+    @ba1a
+  </a>
+</p>
+
   </footer>
 </div>
     </main>
