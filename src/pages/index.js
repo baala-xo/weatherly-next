@@ -98,7 +98,7 @@ export default function Home() {
     <p className="text-center text-sm text-gray-600 p-5">
   Crafted with <span className="text-red-500">❤️</span> by{' '}
   <a
-    href="https://v0-portfolio-ten-mauve.vercel.app/"
+    href="https://portfolio-ochre-nu-66.vercel.app/"
     target="_blank"
     rel="noopener noreferrer"
     className="text-[#8F87F1] font-semibold hover:underline"
